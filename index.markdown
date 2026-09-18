@@ -20,13 +20,13 @@ Now that we have that covered...
 
 ###### (Note: If the images do not work on the site itself, simply right-click one of the titles and open it in a new tab.)
 
-<img width="1000" height="1000" alt="PHL - San Juan Scorpions - Escorpiones de San Juan Uniforms" src="PHL - San Juan Scorpions - Escorpiones de San Juan Uniforms.png" />
+<img width="500" height="500" alt="PHL - San Juan Scorpions - Escorpiones de San Juan Uniforms" src="PHL - San Juan Scorpions - Escorpiones de San Juan Uniforms.png" />
 
-<img width="1000" height="1000" alt="NO AI logo" src="NO AI logo.png" />
+<img width="500" height="500" alt="NO AI logo" src="NO AI logo.png" />
 
-<img width="500" height="1000" alt="(phone)Untitled154_20260810232415" src="(phone)Untitled154_20260810232415.png" />
+<img width="250" height="500" alt="(phone)Untitled154_20260810232415" src="(phone)Untitled154_20260810232415.png" />
 
-<img width="1000" height="1000" alt="(phone)Untitled128_20260722011500" src="(phone)Untitled128_20260722011500.png" />
+<img width="500" height="500" alt="(phone)Untitled128_20260722011500" src="(phone)Untitled128_20260722011500.png" />
 
 ## Find me here!
 
