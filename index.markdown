@@ -14,6 +14,8 @@ Now that we have that covered...
 
 ## Art that I did that I think is really cool.
 
+###### (Note: If the images do not work on the site itself, simply right-click one of the titles, and open them in a new tab.)
+
 <img width="1536" height="1536" alt="NO_AI_logo" src="https://github.com/user-attachments/assets/24bf6ad8-09f5-46a0-b0a7-31aea4f4936b" />
 
 <img width="8334" height="8334" alt="PHL_-_San_Juan_Scorpions_-_Escorpiones_de_San_Juan_Uniforms" src="https://github.com/user-attachments/assets/ff4c38e4-8212-4d15-b4a7-82c199237534" />
