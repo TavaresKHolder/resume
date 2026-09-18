@@ -24,7 +24,7 @@ Now that we have that covered...
 
 <img width="500" height="500" alt="NO AI logo" src="NO AI logo.png" />
 
-<img width="250" height="500" alt="(phone)Untitled154_20260810232415" src="(phone)Untitled154_20260810232415.png" />
+<img width="250" height="400" alt="(phone)Untitled154_20260810232415" src="(phone)Untitled154_20260810232415.png" />
 
 <img width="500" height="500" alt="(phone)Untitled128_20260722011500" src="(phone)Untitled128_20260722011500.png" />
 
