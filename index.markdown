@@ -16,10 +16,10 @@ Now that we have that covered...
 
 ###### (Note: If the images do not work on the site itself, simply right-click one of the titles, and open them in a new tab.)
 
-<img width="1536" height="1536" alt="NO_AI_logo" src="https://github.com/user-attachments/assets/24bf6ad8-09f5-46a0-b0a7-31aea4f4936b" />
+<img width="1536" height="1536" alt="NO_AI_logo" src="https://github.com/user-attachments/assets/24bf6ad8-09f5-46a0-b0a7-31aea4f4936b"/>
 
-<img width="8334" height="8334" alt="PHL_-_San_Juan_Scorpions_-_Escorpiones_de_San_Juan_Uniforms" src="https://github.com/user-attachments/assets/ff4c38e4-8212-4d15-b4a7-82c199237534" />
+<img width="8334" height="8334" alt="PHL_-_San_Juan_Scorpions_-_Escorpiones_de_San_Juan_Uniforms" src="https://github.com/user-attachments/assets/ff4c38e4-8212-4d15-b4a7-82c199237534"/>
 
-<img width="1500" height="2000" alt="Untitled154_20260810232415" src="https://github.com/user-attachments/assets/d2311170-c0bd-4277-8b39-c817203fc82c" />
+<img width="1500" height="2000" alt="Untitled154_20260810232415" src="https://github.com/user-attachments/assets/d2311170-c0bd-4277-8b39-c817203fc82c"/>
 
-<img width="2000" height="2000" alt="Untitled128_20260722011500" src="https://github.com/user-attachments/assets/b6526f0c-7496-41ae-b929-b4e5330b1336" />
+<img width="2000" height="2000" alt="Untitled128_20260722011500" src="https://github.com/user-attachments/assets/b6526f0c-7496-41ae-b929-b4e5330b1336"/>
