@@ -14,10 +14,10 @@ Now that we have that covered...
 
 ## Art that I did that I think is really cool.
 
-https://cdn.discordapp.com/attachments/1311760228970139748/1547386045992018022/PHL_-_San_Juan_Scorpions_-_Escorpiones_de_San_Juan_Uniforms.png?ex=6aae6fce&is=6aad1e4e&hm=a293d50edb01dc52c06c4f95c37ab60df5b541d8a7035d96c49a741b43e6c985
+<img width="1536" height="1536" alt="NO_AI_logo" src="https://github.com/user-attachments/assets/24bf6ad8-09f5-46a0-b0a7-31aea4f4936b" />
 
-https://cdn.discordapp.com/attachments/1311760228970139748/1536576826078662676/Untitled154_20260810232415.png?ex=6aae012f&is=6aacafaf&hm=b625153bafbc8efd67543e56a2a99729397166570a0ed68cef94f738eddfc779
+<img width="8334" height="8334" alt="PHL_-_San_Juan_Scorpions_-_Escorpiones_de_San_Juan_Uniforms" src="https://github.com/user-attachments/assets/ff4c38e4-8212-4d15-b4a7-82c199237534" />
 
-https://cdn.discordapp.com/attachments/1311760228970139748/1529357556122779648/Untitled128_20260722011500.png?ex=6aae1bb7&is=6aacca37&hm=0741d839b69efd18a0325eedc95fcba4d1d659e1f8be032a098a5032c91dbc5a
+<img width="1500" height="2000" alt="Untitled154_20260810232415" src="https://github.com/user-attachments/assets/d2311170-c0bd-4277-8b39-c817203fc82c" />
 
-https://cdn.discordapp.com/attachments/1311760228970139748/1483989191913377933/NO_AI_logo.png?ex=6aae8362&is=6aad31e2&hm=e31301f8668673848856eb6c092f1b032ac5fbff840010b84fa625f953cc57e4
+<img width="2000" height="2000" alt="Untitled128_20260722011500" src="https://github.com/user-attachments/assets/b6526f0c-7496-41ae-b929-b4e5330b1336" />
