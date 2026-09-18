@@ -1,6 +1,6 @@
 # Home Page
 
-Welcome the homepage.
+Welcome the homepage. This is a resume about me.
 
 ## About Me
 
