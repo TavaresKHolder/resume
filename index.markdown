@@ -26,7 +26,7 @@ Now that we have that covered...
 
 <img width="1500" height="2000" alt="(phone)Untitled154_20260810232415" src="https://github.com/user-attachments/assets/348e0abc-8127-41d7-801d-f94332363f7d" />
 
-<img width="2000" height="2000" alt="(phone)Untitled128_20260722011500" src="https://github.com/user-attachments/assets/84e0cab3-872c-4fe5-858c-5b75145d97b7" />
+<img width="2000" height="2000" alt="(phone)Untitled128_20260722011500" src="(phone)Untitled128_20260722011500.png" />
 
 ## Find me here!
 
