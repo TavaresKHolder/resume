@@ -24,7 +24,7 @@ Now that we have that covered...
 
 <img width="4167" height="4167" alt="NO AI logo" src="https://github.com/user-attachments/assets/70abef98-1a9b-4fdf-816a-b5b1650b5ddd" />
 
-<img width="1500" height="2000" alt="(phone)Untitled154_20260810232415" src="https://github.com/user-attachments/assets/348e0abc-8127-41d7-801d-f94332363f7d" />
+<img width="1500" height="2000" alt="(phone)Untitled154_20260810232415" src="(phone)Untitled154_20260810232415.png" />
 
 <img width="2000" height="2000" alt="(phone)Untitled128_20260722011500" src="(phone)Untitled128_20260722011500.png" />
 
