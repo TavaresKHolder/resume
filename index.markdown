@@ -20,7 +20,7 @@ Now that we have that covered...
 
 ###### (Note: If the images do not work on the site itself, simply right-click one of the titles and open it in a new tab.)
 
-<img width="8334" height="8334" alt="PHL - San Juan Scorpions - Escorpiones de San Juan Uniforms" src="https://github.com/user-attachments/assets/64e2db7b-a22d-4de0-937e-e4cccd2e4ea2" />
+<img width="8334" height="8334" alt="PHL - San Juan Scorpions - Escorpiones de San Juan Uniforms" src="(phone)Untitled128_20260722011500.png" />
 
 <img width="4167" height="4167" alt="NO AI logo" src="https://github.com/user-attachments/assets/70abef98-1a9b-4fdf-816a-b5b1650b5ddd" />
 
